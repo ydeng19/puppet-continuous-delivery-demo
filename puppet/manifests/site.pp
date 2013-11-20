@@ -1,6 +1,7 @@
 node appserver {
 
   
+  
   tomcat::deployment { "worblehat-web":
     path => '/etc/puppet/modules/tomcat/files/worblehat-web.war'
 }
