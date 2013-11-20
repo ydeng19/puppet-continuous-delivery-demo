@@ -1,4 +1,5 @@
 class mysql {
+
  
  $mysql_password = "p4ssw0rd"
 
